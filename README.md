@@ -1,2 +1,2 @@
-# Ultilizando-Bootstrap
-Aula Bootstrap DIO - Com Rafael Galleani
+# Aula_Bootstrap
+Ultilizando Bootstrap - Com Rafael Galleani/DIO
